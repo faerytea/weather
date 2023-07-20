@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="search_city">Search city</string>
+    <string name="add_to_favourites">Add to favourites</string>
+    <string name="favourites">Favourites</string>
+    <string name="locating">Locating</string>
+    <string name="trying_to_find_you">We are trying to find you</string>
+    <string name="cannot_find_you">Cannot locate myself</string>
+
+    <string name="temperature_template">%+.1f⁰C</string>
+    <string name="humidity_template">%d%%</string>
+    <string name="wind_template">%s, %.1f m/s</string>
+    <string name="wind_n">N</string>
+    <string name="wind_nw">NW</string>
+    <string name="wind_w">W</string>
+    <string name="wind_sw">SW</string>
+    <string name="wind_s">S</string>
+    <string name="wind_se">SE</string>
+    <string name="wind_e">E</string>
+    <string name="wind_ne">NE</string>
+    <string name="wind_unknown" translatable="false" />
+
+    <string name="clear_sky">Clear sky</string>
+    <string name="rain">Rain</string>
+    <string name="cloudy">Cloudy</string>
+    <string name="partly_cloudy">Partly cloudy</string>
+    <string name="city">City</string>
+</resources>
